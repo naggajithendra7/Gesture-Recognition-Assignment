@@ -28,4 +28,4 @@ The following packages are required:
 - `scikit-learn` (for splitting data and metrics)
 
 ## Contact
-Created by [@jnangineni] - feel free to contact me!
+Created by [@jnangineni] [kamathsushanth@gmail.com] - feel free to contact me!
